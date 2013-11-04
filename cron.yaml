@@ -1,0 +1,4 @@
+cron:
+- description: notify subscribers of changes to page
+  url: /tasks/notify
+  schedule: every 1 hours
